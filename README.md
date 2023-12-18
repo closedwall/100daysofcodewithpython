@@ -17,6 +17,7 @@ I've chosen Python as my primary language for this challenge because of its vers
 
 ##Contents:
 1.[Day 10](#day-10-functions-loops-recursion-and-calculator-project)
+1.[Day 11](#day-11-capstone-project--blackjack)
 
 
 ## Day 10: Functions, Loops, Recursion, and Calculator Project
@@ -38,4 +39,14 @@ Welcome to Day 10 of my #100DaysOfCode journey with Python!
 - **Calculator \#Project**
   - Integrated function, loop, and recursion concepts into a practical project.
   
+## Day 11: Capstone project- Blackjack
+  Welcome to Day 11 of my #100DaysOfCode journey with Python!
+
+🚀 Completed a Blackjack capstone project today, merging all my learnings from the past 10 days. 🃏💻
+
+### Project Highlights
+
+- **Blackjack Game:**
+  - Integrated functions, loops, for a polished game.
+  - Applied modular code design principles for clarity and reusability.
 
