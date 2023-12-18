@@ -1,0 +1,11 @@
+------------BlackJack/21 rules ----------
+## The deck is unlimited in size
+## there are no jockers.
+## Jack, Queen and King count as 10
+## The ace can count as 11 or 1
+## Use the following list as the deck of cards.
+cards=[11,2,3,4,5,6,7,8,9,10,10,10,10]
+## the cards in the list have equal probability being drawn
+## cards are not removed from the deck as they are drawn.
+
+-----------------------------------------------------------
