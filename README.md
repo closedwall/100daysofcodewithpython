@@ -17,6 +17,7 @@ I've chosen Python as my primary language for this challenge because of its vers
 ## Contents
 1. [Day 10](#day-10-functions-loops-recursion-and-calculator-project)
 1. [Day 11](#day-11-capstone-project--blackjack)
+2. [Day 12](#day-12-scoping-concepts-and-number-guessing-project)
 
 ***
 ## Day 10: Functions, Loops, Recursion, and Calculator Project
