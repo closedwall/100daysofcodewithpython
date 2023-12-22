@@ -68,3 +68,29 @@ Welcome to Day 12 of my #100DaysOfCode journey with Python!
 - **Number Guessing Project:**
   - Developed a dynamic Number Guessing game that adapts based on user inputs.
   - Applied scoping concepts to enhance code readability and maintainability.
+***
+# 100 Days of Code with Python
+
+## Day 14: Higher-Lower Game Implementation
+
+Welcome back to Day 14 of my #100DaysOfCode journey with Python!
+
+### Today's Progress
+
+- Designed and implemented a Higher-Lower game.
+- Leveraged previous coding concepts to create an interactive and entertaining guessing challenge.
+
+### Game Highlights
+
+- **Higher-Lower Game:**
+  - Users guess whether the next number is higher or lower.
+  - Utilized functions, loops, and user input handling for a seamless gaming experience.
+
+### Key Learnings Applied
+
+- **Application of Concepts:**
+  - Reinforced knowledge of functions, loops, and user input handling in a practical project.
+  - Enhanced problem-solving skills through game development.
+
+
+💻
