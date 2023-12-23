@@ -18,6 +18,8 @@ I've chosen Python as my primary language for this challenge because of its vers
 1. [Day 10](#day-10-functions-loops-recursion-and-calculator-project)
 1. [Day 11](#day-11-capstone-project--blackjack)
 2. [Day 12](#day-12-scoping-concepts-and-number-guessing-project)
+3. [Day 14](#day-14-higher-lower-game-implementation)
+4. [Day 15](#day-15-local-environment-setup-and-coffee-machine-project)
 
 ***
 ## Day 10: Functions, Loops, Recursion, and Calculator Project
@@ -92,5 +94,26 @@ Welcome back to Day 14 of my #100DaysOfCode journey with Python!
   - Reinforced knowledge of functions, loops, and user input handling in a practical project.
   - Enhanced problem-solving skills through game development.
 
+***
+## Day 15: Local Environment Setup and Coffee Machine Project
 
-💻
+Welcome to Day 15 of my #100DaysOfCode journey with Python!
+
+### Today's Progress
+
+- Set up a local development environment for Python, enhancing my coding workflow.
+- Explored system configurations and optimized settings for a smoother development experience.
+- Dived into a Coffee Machine project, blending code and caffeine for a delightful coding session.
+
+### Project Highlights
+
+- **Coffee Machine Project:**
+  - Implemented a Python script simulating a coffee machine.
+  - Utilized Python functions and conditional statements for an interactive user experience.
+
+### Key Learnings Applied
+
+- **Coffee Machine Project:**
+  - Applied coding concepts to create a practical and engaging project.
+  - Strengthened understanding of functions and conditional statements.
+
