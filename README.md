@@ -15,11 +15,18 @@ Follow on:
 I've chosen Python as my primary language for this challenge because of its versatility, readability, and the vast array of applications it supports – from web development to data science.
 
 ## Contents
-1. [Day 10](#day-10-functions-loops-recursion-and-calculator-project)
-1. [Day 11](#day-11-capstone-project--blackjack)
-2. [Day 12](#day-12-scoping-concepts-and-number-guessing-project)
-3. [Day 14](#day-14-higher-lower-game-implementation)
-4. [Day 15](#day-15-local-environment-setup-and-coffee-machine-project)
+- [100 Days of Code with Python](#100-days-of-code-with-python)
+  - [Day 14: Higher-Lower Game Implementation](#day-14-higher-lower-game-implementation)
+    - [Today's Progress](#todays-progress-2)
+    - [Game Highlights](#game-highlights)
+    - [Key Learnings Applied](#key-learnings-applied)
+  - [Day 15: Local Environment Setup and Coffee Machine Project](#day-15-local-environment-setup-and-coffee-machine-project)
+    - [Today's Progress](#todays-progress-3)
+    - [Project Highlights](#project-highlights-1)
+    - [Key Learnings Applied](#key-learnings-applied-1)
+  - [Day 16: Classes and Coffee Machine Project](#day-16-classes-and-coffee-machine-project)
+    - [Today's Progress](#todays-progress-4)
+    - [Key Learnings](#key-learnings-2)
 
 ***
 ## Day 10: Functions, Loops, Recursion, and Calculator Project
@@ -117,3 +124,23 @@ Welcome to Day 15 of my #100DaysOfCode journey with Python!
   - Applied coding concepts to create a practical and engaging project.
   - Strengthened understanding of functions and conditional statements.
 
+***
+
+## Day 16: Classes and Coffee Machine Project
+
+Welcome to Day 16 of my #100DaysOfCode journey with Python!
+
+### Today's Progress
+
+- Explored the fundamental concepts of classes and Object-Oriented Programming (OOP) in python.
+- Created a Coffee Machine project, leveraging the power of classes to organize and structure the code effectively.
+
+### Key Learnings
+
+- **Classes in python:**
+  - Understanding how classes provide a blueprint for creating objects.
+  - Defining class methods and properties.
+
+- **Coffee Machine Project:**
+  - Utilized classes to model the Coffee Machine, creating a modular and maintainable code structure.
+  - Implemented class methods to simulate various actions like brewing coffee and adding ingredients.
