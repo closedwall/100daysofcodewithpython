@@ -15,18 +15,15 @@ Follow on:
 I've chosen Python as my primary language for this challenge because of its versatility, readability, and the vast array of applications it supports – from web development to data science.
 
 ## Contents
-- [100 Days of Code with Python](#100-days-of-code-with-python)
-  - [Day 14: Higher-Lower Game Implementation](#day-14-higher-lower-game-implementation)
-    - [Today's Progress](#todays-progress-2)
-    - [Game Highlights](#game-highlights)
-    - [Key Learnings Applied](#key-learnings-applied)
-  - [Day 15: Local Environment Setup and Coffee Machine Project](#day-15-local-environment-setup-and-coffee-machine-project)
-    - [Today's Progress](#todays-progress-3)
-    - [Project Highlights](#project-highlights-1)
-    - [Key Learnings Applied](#key-learnings-applied-1)
-  - [Day 16: Classes and Coffee Machine Project](#day-16-classes-and-coffee-machine-project)
-    - [Today's Progress](#todays-progress-4)
-    - [Key Learnings](#key-learnings-2)
+
+1. [Day 10](#day-10-functions-loops-recursion-and-calculator-project)
+2. [Day 11](#day-11-capstone-project--blackjack)
+3. [Day 12](#day-12-scoping-concepts-and-number-guessing-project)
+4. [Day 14](#day-14-higher-lower-game-implementation)
+5. [Day 15](#day-15-local-environment-setup-and-coffee-machine-project)
+6. [Day 16](#day-16-classes-and-coffee-machine-project)
+7. [Day 17](#day-17-classes-and-objects)
+8. [Day 18](#day-18-turtle-graphics)
 
 ***
 ## Day 10: Functions, Loops, Recursion, and Calculator Project
@@ -78,7 +75,6 @@ Welcome to Day 12 of my #100DaysOfCode journey with Python!
   - Developed a dynamic Number Guessing game that adapts based on user inputs.
   - Applied scoping concepts to enhance code readability and maintainability.
 ***
-# 100 Days of Code with Python
 
 ## Day 14: Higher-Lower Game Implementation
 
@@ -144,3 +140,21 @@ Welcome to Day 16 of my #100DaysOfCode journey with Python!
 - **Coffee Machine Project:**
   - Utilized classes to model the Coffee Machine, creating a modular and maintainable code structure.
   - Implemented class methods to simulate various actions like brewing coffee and adding ingredients.
+
+***
+
+## Day 17: classes and objects
+Welcome to Day 17 of my #100DaysOfCode journey with Python!
+
+### today's progress
+- today I have learnt about the stucture of class, constructor, methords
+- worked on quize project
+
+
+***
+
+## Day 18: Turtle graphics
+welcome to Day 18 of my #100DaysOfCode journey with python
+### today's progress
+- Deep dive into the Turtle graphics
+- worked on painting project of dots
