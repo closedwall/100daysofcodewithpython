@@ -24,6 +24,7 @@ I've chosen Python as my primary language for this challenge because of its vers
 6. [Day 16](#day-16-classes-and-coffee-machine-project)
 7. [Day 17](#day-17-classes-and-objects)
 8. [Day 18](#day-18-turtle-graphics)
+9. [Day 19](#day-19-turtle-racing-game)
 
 ***
 ## Day 10: Functions, Loops, Recursion, and Calculator Project
@@ -158,3 +159,22 @@ welcome to Day 18 of my #100DaysOfCode journey with python
 ### today's progress
 - Deep dive into the Turtle graphics
 - worked on painting project of dots
+
+***
+
+## Day 19: Turtle Racing Game
+
+Today's progress involved a deep dive into Turtle Graphics, exploring states, event listeners, and higher-order functions. The highlight of the day was the creation of a Turtle Racing Game using the Turtle Graphics library.
+
+### Key Learnings
+
+- **Turtle Graphics:** Explored the basics of Turtle Graphics, including turtle movements, shapes, and colors.
+- **States in Turtle Graphics:** Manipulated turtle states like penup and pendown for drawing and non-drawing movements.
+- **Event Listeners:** Implemented event listeners to capture user input, enabling the turtle to respond to specific actions.
+- **Higher-Order Functions:** Gained insights into the concept of higher-order functions and applied them in the Turtle Racing Game.
+
+### Project: Turtle Racing Game
+
+- Multiple turtles(5) participate in a race on the Turtle Graphics window.
+- Users can place bets on the turtle they think will win.
+- Turtles move forward randomly, and the first one to reach the finish line is declared the winner.
