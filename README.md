@@ -25,6 +25,7 @@ I've chosen Python as my primary language for this challenge because of its vers
 7. [Day 17](#day-17-classes-and-objects)
 8. [Day 18](#day-18-turtle-graphics)
 9. [Day 19](#day-19-turtle-racing-game)
+10. [Day 20](#day-20-project-on-classic-snake-game)
 
 ***
 ## Day 10: Functions, Loops, Recursion, and Calculator Project
@@ -178,3 +179,12 @@ Today's progress involved a deep dive into Turtle Graphics, exploring states, ev
 - Multiple turtles(5) participate in a race on the Turtle Graphics window.
 - Users can place bets on the turtle they think will win.
 - Turtles move forward randomly, and the first one to reach the finish line is declared the winner.
+
+***
+
+## Day 20: Project on classic snake game
+Today marks a significant step in my coding adventure. I've begun crafting a classic Snake Game with the help of Python's Turtle Graphics module. Though a work in progress, the thrill of seeing the snake move across the screen is already palpable.
+### Project Structure
+- `main.py`: The main Python script containing the game logic.
+- `snake.py`: this directory is class file of snake, this class has logic of making snake, placing on correct position and snake control.
+- 
