@@ -63,16 +63,16 @@ def randomColorGenerator():
 
 
 #TODO: 6 generate a spirograph
-# radius = 100
-# tim.speed("fastest")
-# def print_spirograph(size_of_gap):
-#     for _ in range(360//size_of_gap):
-#         color = randomColorGenerator()
-#         tim.pencolor(color)
-#         tim.circle(radius, extent=None, steps=None)
-#         tim.setheading(tim.heading()+size_of_gap)
+radius = 100
+tim.speed("fastest")
+def print_spirograph(size_of_gap):
+    for _ in range(360//size_of_gap):
+        color = randomColorGenerator()
+        tim.pencolor(color)
+        tim.circle(radius, extent=None, steps=None)
+        tim.setheading(tim.heading()+size_of_gap)
 
-# print_spirograph(1)
+print_spirograph(5)
 
 
 
