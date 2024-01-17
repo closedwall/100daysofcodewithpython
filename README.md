@@ -26,6 +26,7 @@ I've chosen Python as my primary language for this challenge because of its vers
 8. [Day 18](#day-18-turtle-graphics)
 9. [Day 19](#day-19-turtle-racing-game)
 10. [Day 20](#day-20-project-on-classic-snake-game)
+11. [Day 21](#day-21-wrapped-up-snake-game)
 
 ***
 ## Day 10: Functions, Loops, Recursion, and Calculator Project
@@ -187,4 +188,14 @@ Today marks a significant step in my coding adventure. I've begun crafting a cla
 ### Project Structure
 - `main.py`: The main Python script containing the game logic.
 - `snake.py`: this directory is class file of snake, this class has logic of making snake, placing on correct position and snake control.
-- 
+  
+  ***
+  ## Day 21: wrapped up snake game
+
+  Today marks a significant milestone as I've completed the remaining part of the Snake Game, incorporating the powerful concept of object-oriented programming - **inheritance**. The code is now more organized and scalable, enhancing the overall structure of the game.
+
+  ### Project Structure
+- `main.py`: The main Python script containing the game logic, now with improved organization using OOP principles.
+- `snake.py`: this file is dedicated for the snake class which has different data members and member function.
+- `scoreboard.py`: this file is dedicated for the class of scoreboard which shows on the screen.
+- `food.py`: This file id dedicated for the class of food for the snake
