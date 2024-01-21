@@ -28,6 +28,7 @@ I've chosen Python as my primary language for this challenge because of its vers
 10. [Day 20](#day-20-project-on-classic-snake-game)
 11. [Day 21](#day-21-wrapped-up-snake-game)
 12. [Day 22](#day-22-pong-game)
+13. [day 23](#day-23-the-turtle-crossing-game)
 
 ***
 ## Day 10: Functions, Loops, Recursion, and Calculator Project
@@ -214,4 +215,15 @@ Today marks a significant step in my coding adventure. I've begun crafting a cla
   ### controls
   - Use `W` and `S` keys to move the left paddle up and down.
   - Use `Up` and `Down` arrow keys to move the right paddle up and down.
-  
+
+***
+## Day 23: The Turtle crossing game
+  ### Overview
+  This is a simple Turtle Crossing game created as part of my `#100DaysOfCode` with Python challenge. The game utilizes the turtle graphics library to create a fun and interactive experience. this game is well organized using obect oriented programming, easy to maintain code.
+  ### Features
+  - Player-controlled turtle navigating traffic.
+  - Dynamic traffic with moving cars.
+  - Crossing mechanics with score tracking.
+  - game becomes harder with increase in score
+  ### control
+  - use `Up` arrow key to move turtle forward.
