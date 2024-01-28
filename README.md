@@ -29,6 +29,7 @@ I've chosen Python as my primary language for this challenge because of its vers
 11. [Day 21](#day-21-wrapped-up-snake-game)
 12. [Day 22](#day-22-pong-game)
 13. [day 23](#day-23-the-turtle-crossing-game)
+14. [day 24](#day-24---file-handling)
 
 ***
 ## Day 10: Functions, Loops, Recursion, and Calculator Project
@@ -227,3 +228,26 @@ Today marks a significant step in my coding adventure. I've begun crafting a cla
   - game becomes harder with increase in score
   ### control
   - use `Up` arrow key to move turtle forward.
+
+## Day 24 - file handling
+
+### Overview
+
+Today marked Day 24 of my #100DaysOfCode challenge. The focus was on file handling concepts, and I successfully completed a project related to creating an invitation letter.
+
+### Completed Tasks
+
+- **File Handling Concepts:**
+  - Explored various aspects of file handling in Python.
+  - Learned about reading from and writing to files.
+  - Implemented code examples to solidify understanding.
+
+- **Invitation Letter Project:**
+  - Created a Python program to generate invitation letters dynamically.
+  - Incorporated file handling to read template files and personalize invitations.
+  - Tested and debugged the code for a seamless user experience.
+
+### Challenges Faced
+
+- Encountered a challenge while formatting the invitation text dynamically.
+- Resolved the issue by revisiting string manipulation techniques.
