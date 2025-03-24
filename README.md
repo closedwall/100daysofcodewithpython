@@ -30,6 +30,7 @@ I've chosen Python as my primary language for this challenge because of its vers
 12. [Day 22](#day-22-pong-game)
 13. [day 23](#day-23-the-turtle-crossing-game)
 14. [day 24](#day-24---file-handling)
+15. [day 28](#day-28 pomodora application)
 
 ***
 ## Day 10: Functions, Loops, Recursion, and Calculator Project
@@ -251,3 +252,12 @@ Today marked Day 24 of my #100DaysOfCode challenge. The focus was on file handli
 
 - Encountered a challenge while formatting the invitation text dynamically.
 - Resolved the issue by revisiting string manipulation techniques.
+
+## Day 28: The Pomodora application
+
+### Overview
+Today marked Day 28 of my #100DaysOfCode challenge. The focus was on tkinter concepts, and I successfully completed a project related to creating a Pomodoro application.
+
+
+### Completed Tasks
+A simple Pomodoro timer application built using Python and Tkinter. This application helps users stay focused by following the Pomodoro technique: 25 minutes of work followed by a 5-minute break (you can adjust the timer).
