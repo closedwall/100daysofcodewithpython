@@ -30,7 +30,8 @@ I've chosen Python as my primary language for this challenge because of its vers
 12. [Day 22](#day-22-pong-game)
 13. [day 23](#day-23-the-turtle-crossing-game)
 14. [day 24](#day-24---file-handling)
-15. [day 28](#day-28 pomodora application)
+15. [day 29](#day-28-the-pomodoro-application)
+16. [day 29](#day-29-password-manager)
 
 ***
 ## Day 10: Functions, Loops, Recursion, and Calculator Project
@@ -253,7 +254,7 @@ Today marked Day 24 of my #100DaysOfCode challenge. The focus was on file handli
 - Encountered a challenge while formatting the invitation text dynamically.
 - Resolved the issue by revisiting string manipulation techniques.
 
-## Day 28: The Pomodora application
+## Day 28: The Pomodoro application
 
 ### Overview
 Today marked Day 28 of my #100DaysOfCode challenge. The focus was on tkinter concepts, and I successfully completed a project related to creating a Pomodoro application.
@@ -261,3 +262,30 @@ Today marked Day 28 of my #100DaysOfCode challenge. The focus was on tkinter con
 
 ### Completed Tasks
 A simple Pomodoro timer application built using Python and Tkinter. This application helps users stay focused by following the Pomodoro technique: 25 minutes of work followed by a 5-minute break (you can adjust the timer).
+
+## Day 29: Password Manager
+
+An effective **Password Manager** built using Python and Tkinter. This application allows users to generate strong passwords, store them securely in a text file, and copy them directly to the clipboard for ease of use.
+
+### Features
+
+- **Random Password Generator**: Creates strong and unique passwords using a mix of letters, numbers, and symbols.
+- **Clipboard Support**: Automatically copies the generated password to the clipboard for quick access.
+- **Secure Storage**: Saves credentials in a structured format within a `password.txt` file.
+- **User-Friendly Interface**: Built with Tkinter for an intuitive and easy-to-use GUI.
+
+
+### Usage
+
+1. **Enter Website**: Input the name of the website.
+2. **Enter Email/Username**: Provide the associated login email or username.
+3. **Generate Password**: Click the `Generate Password` button to create a strong password.
+4. **Save Credentials**: Click `Add` to store the credentials in `password.txt`.
+5. **Copy to Clipboard**: The password is automatically copied for convenience.
+
+### Security Considerations
+
+- The passwords are saved in a plain-text file (`password.txt`). Consider encrypting or using a database for better security.
+- Avoid sharing your saved file with others to prevent unauthorized access.
+
+Made with ❤️ by [Rajesh Yadav](https://github.com/your-username)
