@@ -30,7 +30,7 @@ I've chosen Python as my primary language for this challenge because of its vers
 12. [Day 22](#day-22-pong-game)
 13. [day 23](#day-23-the-turtle-crossing-game)
 14. [day 24](#day-24---file-handling)
-15. [day 29](#day-28-the-pomodoro-application)
+15. [day 28](#day-28-the-pomodoro-application)
 16. [day 29](#day-29-password-manager)
 
 ***
