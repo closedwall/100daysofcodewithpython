@@ -32,6 +32,7 @@ I've chosen Python as my primary language for this challenge because of its vers
 14. [day 24](#day-24---file-handling)
 15. [day 28](#day-28-the-pomodoro-application)
 16. [day 29](#day-29-password-manager)
+17. [day 30](#day-30---exception-handling--json-data)
 
 ***
 ## Day 10: Functions, Loops, Recursion, and Calculator Project
@@ -289,3 +290,28 @@ An effective **Password Manager** built using Python and Tkinter. This applicati
 - Avoid sharing your saved file with others to prevent unauthorized access.
 
 Made with ❤️ by [Rajesh Yadav](https://github.com/your-username)
+
+# Day 30 - Exception Handling & JSON Data
+
+## What I Learned Today
+
+### 1. Exception Handling in Python
+- Learned how to handle errors gracefully using `try`, `except`, `else`, and `finally`.
+- Understood the importance of handling different types of exceptions like `FileNotFoundError`, `KeyError`, and `ValueError`.
+- Implemented exception handling in my existing projects to make them more robust and user-friendly.
+
+### 2. Working with JSON Data in Python
+- Explored the `json` module for storing and retrieving structured data.
+- Learned how to read and write JSON files using `json.dump()` and `json.load()`.
+- Understood the benefits of using JSON over plain text for data storage.
+
+## Project Improvement - Password Manager (Day 29 Enhancement)
+- Replaced text-based password storage with JSON-based storage.
+- Implemented exception handling to manage file operations and user inputs efficiently.
+- Enhanced the security and reliability of the password manager by preventing crashes due to missing files or incorrect data formats.
+- implemented search functionality to search teh saved password.
+- Look into encrypting stored passwords for added security.
+
+
+
+
