@@ -1,26 +1,42 @@
 import random
 from tkinter import *
 import pandas as pd
-BACKGROUND_COLOR = "#B1DDC6"
 
-df = pd.read_csv('data/french_words.csv')
-words = df.to_dict('records')
-current_choice ={}
+BACKGROUND_COLOR = "#B1DDC6"
+current_choice = {}
+to_learn = {}
+
+try:
+    df = pd.read_csv('data/words_to_learn.csv')
+except FileNotFoundError:
+    original_data = pd.read_csv('data/french_words.csv')
+    to_learn = original_data.to_dict(orient='records')
+else:
+    to_learn = df.to_dict(orient='records')
+
 
 def next_card():
     global current_choice, flip_timer
     window.after_cancel(flip_timer)
-    current_choice = random.choice(words)
+    current_choice = random.choice(to_learn)
     canvas.itemconfig(title, text="French", fill="black")
     canvas.itemconfig(word, text=current_choice['French'], fill="black")
     canvas.itemconfig(card_img_id, image=card_font_img)
-    flip_timer = window.after(3000, next_card)
+    flip_timer = window.after(3000, flip_card)
 
 
 def flip_card():
     canvas.itemconfig(title, text="English", fill="white")
     canvas.itemconfig(word, text=current_choice['English'], fill="white")
     canvas.itemconfig(card_img_id, image=card_back_img)
+
+
+def is_known():
+    to_learn.remove(current_choice)
+    print(len(to_learn))
+    data = pd.DataFrame(to_learn)
+    data.to_csv('data/words_to_learn.csv', index=False)
+    next_card()
 
 
 window = Tk()
@@ -44,7 +60,7 @@ unknown_button = Button(image=cross_image, highlightthickness=0, command=next_ca
 unknown_button.grid(row=1, column=0)
 
 right_image = PhotoImage(file="images/right.png")
-right_button = Button(image=right_image, highlightthickness=0, command=next_card)
+right_button = Button(image=right_image, highlightthickness=0, command=is_known)
 right_button.grid(row=1, column=1)
 
 next_card()
