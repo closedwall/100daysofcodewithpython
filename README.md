@@ -33,6 +33,7 @@ I've chosen Python as my primary language for this challenge because of its vers
 15. [day 28](#day-28-the-pomodoro-application)
 16. [day 29](#day-29-password-manager)
 17. [day 30](#day-30---exception-handling--json-data)
+18. [day 31](#day-31---flip-card-capstone-project-)
 
 ***
 ## Day 10: Functions, Loops, Recursion, and Calculator Project
@@ -311,6 +312,36 @@ Made with ❤️ by [Rajesh Yadav](https://github.com/your-username)
 - Enhanced the security and reliability of the password manager by preventing crashes due to missing files or incorrect data formats.
 - implemented search functionality to search teh saved password.
 - Look into encrypting stored passwords for added security.
+
+# Day 31 - Flip Card Capstone Project 🇫🇷➡️🇬🇧
+
+## 📅 #100DaysOfCodeWithPython – Day 31
+
+### ✅ Project: Flip Card Language Learner
+
+Today, I built a **Flip Card Capstone Project** as part of my 100 Days of Code with Python journey. This simple yet effective application displays a **French word**, waits for 30 seconds, and then flips the card to reveal its **English translation**.
+
+This project is a great way to **enhance language learning** by reinforcing vocabulary in an interactive and visual manner.
+
+---
+
+## 💡 Features
+
+- Displays random French words.
+- Automatically flips after 3 seconds to show the English meaning.
+- Helps with memorizing and recognizing French vocabulary.
+- Simple and elegant card-style UI using `tkinter`.
+
+---
+
+## 🛠️ Tech Stack
+
+- Python 🐍
+- Tkinter for GUI 💻
+- CSV file for storing vocabulary 📄
+- `pandas` for data handling 📊
+
+
 
 
 
