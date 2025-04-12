@@ -34,6 +34,7 @@ I've chosen Python as my primary language for this challenge because of its vers
 16. [day 29](#day-29-password-manager)
 17. [day 30](#day-30---exception-handling--json-data)
 18. [day 31](#day-31---flip-card-capstone-project-)
+19. [day 32](#day-32---happy-birthday-email)
 
 ***
 ## Day 10: Functions, Loops, Recursion, and Calculator Project
@@ -340,6 +341,20 @@ This project is a great way to **enhance language learning** by reinforcing voca
 - Tkinter for GUI 💻
 - CSV file for storing vocabulary 📄
 - `pandas` for data handling 📊
+
+# Day 32 - Happy Birthday email
+
+## #100daysOfCodeWithPython - Day 32
+
+### 📚 What I Learned:
+Today was all about two very useful modules in Python: smtplib/email for sending emails, and datetime for handling dates and times. Here's a breakdown of what I explored:
+
+### Project: Happy Birthday email
+To wrap up the day, I built a small project that automatically sends a "Happy Birthday" email using the concepts I learned.
+#### Project Overview:
+- Stores birthday data in file.
+- Uses the datetime module to match today's date with saved birthdays.
+- Sends a personalized birthday email using smtplib and email.message.
 
 
 
